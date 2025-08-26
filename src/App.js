@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    TODO LIST
+                    Demo-argo-proj - TODO LIST
                 </Row>
   
                 <hr />
